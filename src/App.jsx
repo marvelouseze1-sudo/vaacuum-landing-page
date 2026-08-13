@@ -228,9 +228,9 @@ const TrustBadges = () => (
 );
 
 const vacuumImages = [
-  { src: "/images/vacuum-kit.png", alt: "Cordless car vacuum with washable filter, attachments, and USB charging cable", label: "Full kit" },
-  { src: "/images/vacuum-airflow.png", alt: "Cordless car vacuum showing airflow, filter, brush, and crevice attachments", label: "Power and tools" },
-  { src: "/images/vacuum-closeup.png", alt: "Close-up view of the cordless car vacuum and transparent dust chamber", label: "Close-up" },
+  { src: "/images/vacuum-kit.jpg", alt: "Cordless car vacuum with washable filter, attachments, and USB charging cable", label: "Full kit" },
+  { src: "/images/vacuum-airflow.jpg", alt: "Cordless car vacuum showing airflow, filter, brush, and crevice attachments", label: "Power and tools" },
+  { src: "/images/vacuum-closeup.jpg", alt: "Close-up view of the cordless car vacuum and transparent dust chamber", label: "Close-up" },
 ];
 
 const Hero = () => {
@@ -301,9 +301,9 @@ const Hero = () => {
 };
 
 const features = [
-  { icon: "power", number: "01", title: "Suction That Actually Works", copy: "Crumbs, sand, pet hair, even fine dust, gone in one pass. No going over the same spot five times like that cheap vacuum you tried before.", img: "/images/vacuum-airflow.png", alt: "Vacuum airflow and cleaning attachments", fit: "contain" },
-  { icon: "battery", number: "02", title: "Cordless. Ready In Seconds.", copy: "No awkward cables, no hunting for a wall outlet. Charge it once and clean your whole car on a single charge. Quick top-up and you're back at it.", img: "/images/vacuum-closeup.png", alt: "Close-up of the cordless USB rechargeable vacuum", fit: "contain" },
-  { icon: "wrench", number: "03", title: "Built To Survive Car Life", copy: "Toss it in the boot and forget about it. Compact, rugged, and tested before it ever reaches your door. This is the last car vacuum you'll need to buy.", img: "/images/vacuum-kit.png", alt: "Complete cordless vacuum kit with attachments", fit: "contain" },
+  { icon: "power", number: "01", title: "Suction That Actually Works", copy: "Crumbs, sand, pet hair, even fine dust, gone in one pass. No going over the same spot five times like that cheap vacuum you tried before.", img: "/images/vacuum-airflow.jpg", alt: "Vacuum airflow and cleaning attachments", fit: "contain" },
+  { icon: "battery", number: "02", title: "Cordless. Ready In Seconds.", copy: "No awkward cables, no hunting for a wall outlet. Charge it once and clean your whole car on a single charge. Quick top-up and you're back at it.", img: "/images/vacuum-closeup.jpg", alt: "Close-up of the cordless USB rechargeable vacuum", fit: "contain" },
+  { icon: "wrench", number: "03", title: "Built To Survive Car Life", copy: "Toss it in the boot and forget about it. Compact, rugged, and tested before it ever reaches your door. This is the last car vacuum you'll need to buy.", img: "/images/vacuum-kit.jpg", alt: "Complete cordless vacuum kit with attachments", fit: "contain" },
 ];
 
 const Features = () => (
